@@ -8,3 +8,6 @@ build*/
 compile_commands.json
 doxygen
 media/
+*.bc
+*.tilebc
+example
